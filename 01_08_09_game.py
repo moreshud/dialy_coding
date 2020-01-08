@@ -15,6 +15,7 @@ elif question.lower() == "y":
 
     #game starts
     '''
+    advanced  contribution
     allow player to set the range of guess, chances which can be used to calculate their accuracy
     reminder  if non-negative is allowed from the print meassage 
     '''
