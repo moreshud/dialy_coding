@@ -1,3 +1,7 @@
+'''
+authors: AJ Riley
+editors: Moshood Olawale
+'''
 #!/usr/bin/env python3
 
 import random
@@ -63,3 +67,4 @@ elif question.lower() == "y":
 
 else:
     print("You need to enter yes (y) or no (n)")
+
